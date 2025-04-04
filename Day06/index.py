@@ -27,5 +27,3 @@ def first_function(my_name, my_age):
     print(f"Hello, {my_name}. You are {my_age} years old.")
 
 first_function('john', 23)
-
-print('Hello, world!')
